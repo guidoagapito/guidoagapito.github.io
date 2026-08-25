@@ -5,13 +5,6 @@ Curriculum Vitae
    :local:
    :depth: 1
 
-Personal Information
---------------------
-* **Name:** Guido Agapito
-* **Affiliation:** INAF (National Institute for Astrophysics) - Arcetri Observatory, Italy
-* **Email:** guido.agapito@inaf.it
-* **ORCID:** `0000-0002-6382-2613 <https://orcid.org/0000-0002-6382-2613>`_
-
 Work Experience
 ---------------
 
@@ -63,11 +56,3 @@ Education
        *Università degli studi di Firenze (Italy)*
        
        Thesis: *Modellazione e simulazione di sistemi antipattinanti/antislittanti ferroviari*.
-
-Skills
-------
-
-* **Job-related:** Teamwork, problem solving, leadership, organisation, perseverance, and motivation.
-* **Digital Skills:** Communication and Collaboration Tools, Operating Systems (Windows, Mac, Linux), Office suites, Machine learning, Data analysis and visualization.
-* **Programming:** IDL, Matlab, Simulink, Python, C/C++, NVIDIA CUDA.
-* **Languages:** Italian (Mother tongue), English (C1).

@@ -22,16 +22,26 @@ Research Interests & Projects
 -----------------------------
 I am actively involved in the design, integration, test, and commissioning of AO systems for major ground-based telescopes, frequently taking on leadership and coordination roles:
 
-* **Extremely Large Telescope (ELT):** 
+* **Extremely Large Telescope (ELT):**
+
   * **MORFEO** (formerly MAORY): Work Package Manager for the *End-to-end simulation code* (Phase B to present, 2018–now).
+  
   * **ANDES** (formerly HIRES): Contributor for numerical simulations.
+
 * **Very Large Telescope (VLT):** 
+
   * **ERIS:** Work Package Manager for *AO control* from Phase B through commissioning (2014–2022).
+  
   * **MAVIS:** Work Package Manager for *AO Control & Performance* (Phase A to present, 2020–now).
+
 * **Large Binocular Telescope (LBT):** 
+  
   * **SOUL** (FLAO upgrade): Task Manager for *Numerical simulations* during the Preliminary Design Study (2015–2016).
+
 * **Giant Magellan Telescope (GMT):**
+  
   * **NGWS:** Task Manager for *Baseline NGSAO System Performance* (2013–2015).
+
 * **Space & Laser Systems:** Numerical simulations and control design for CaNaPy, ALASCA, and CASTORE.
 
 National Coordination & Grants
@@ -48,4 +58,6 @@ Site Navigation
 
    cv
    publications
+   software
+   talks
 

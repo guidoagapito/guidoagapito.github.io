@@ -9,6 +9,7 @@
 project = 'Guido Agapito'
 copyright = '2026, Guido Agapito'
 author = 'Guido Agapito'
+html_title = "Guido Agapito"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
