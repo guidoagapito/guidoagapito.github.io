@@ -49,6 +49,19 @@ National Coordination & Grants
 * **ADONI (ADaptive Optics National laboratory in Italy):** Local Manager and Coordinator for the INAF Arcetri Observatory node. I am responsible for managing local ADONI funds and coordinating activities with the national network and other node managers.
 * **ML4AO (Machine Learning for Adaptive Optics):** Principal Investigator for this INAF grant (2023–2025).
 
+Teaching & Lecture Notes
+------------------------
+I am the author of an open-access manuscript designed specifically for Master of Science and PhD students in Automation and Aerospace Engineering. While traditional Adaptive Optics literature is written for optical physicists, these notes reframe the entire AO problem strictly through the lens of Systems and Control Engineering.
+
+.. admonition:: Featured Publication
+   :class: tip
+
+   **Control-Oriented Adaptive Optics: Lecture Notes for Automation and Aerospace Engineers**
+   *(Version 0.3, August 2026)*
+
+   * **DOI:** `10.5281/zenodo.21977802 <https://doi.org/10.5281/zenodo.21977802>`_
+   * **Status:** Actively evolving towards a 1.0 release. Constructive feedback is highly appreciated!
+
 Site Navigation
 ---------------
 
