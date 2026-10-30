@@ -59,7 +59,7 @@ I am the author of an open-access manuscript designed specifically for Master of
    **Control-Oriented Adaptive Optics: Lecture Notes for Automation and Aerospace Engineers**
    *(Version 0.3, August 2026)*
 
-   * **DOI:** `10.5281/zenodo.21977802 <https://doi.org/10.5281/zenodo.21977802>`_
+   * **DOI:** `10.5281/zenodo.21977801 <https://doi.org/10.5281/zenodo.21977801>`_
    * **Status:** Actively evolving towards a 1.0 release. Constructive feedback is highly appreciated!
 
 Site Navigation
