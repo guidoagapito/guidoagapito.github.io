@@ -46,7 +46,6 @@ PASSATA
 -------
 **IDL AO end-to-end simulator**
 
-PyrAmid Simulator Software for Adaptive opTics Arcetri (PASSATA) is an IDL-based object-oriented software developed in the Adaptive Optics group of the Arcetri Observatory for Monte-Carlo end-to-end adaptive optics simulations. 
+PyrAmid Simulator Software for Adaptive opTics Arcetri (PASSATA) is an IDL-based object-oriented software developed in the Adaptive Optics group of the Arcetri Observatory for Monte-Carlo end-to-end adaptive optics simulations (no public repository available). 
 
-* `GPU-CUDA Acceleration DLL <https://github.com/ArcetriAdaptiveOptics/IdlTools/tree/main/GPU>`_
 * `Reference Paper <https://doi.org/10.1117/12.2233963>`_ (Agapito, Puglisi & Esposito, 2016)
